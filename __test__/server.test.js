@@ -122,7 +122,7 @@ describe('CUSTOMER Route', () => {
   it('Update one customer', async () => {
     let response = await request.put('/customer/1').send({name: 'newTester'});
 
-    console.log('BODY: ', response.body);
+    //console.log('BODY: ', response.body);
     expect(response.status).toEqual(200);
     expect(response.body.name).toEqual('newTester');
     expect(response.body.age).toEqual(42);

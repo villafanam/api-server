@@ -47,10 +47,15 @@ Build a REST API using Express, by creating a proper series of endpoints that pe
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- tests
+  - Create a customer/food
+  - Get all customers/foods
+  - Get one customer/food
+  - Update one customer/food (Incomplete)
+  - Delete one customer/food
+  - handles invalid request route
+  - handles invalid request method
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+[Class 04 GitHub Repo](https://github.com/codefellows/seattle-code-javascript-401d51/tree/main/class-03)
