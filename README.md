@@ -10,9 +10,9 @@ Build a REST API using Express, by creating a proper series of endpoints that pe
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions) 
-- [GitHub PR](http://xyz.com) 
-- [back-end server url](http://xyz.com) 
+- [GitHub Actions ci/cd](https://github.com/villafanam/api-server/actions) 
+- [GitHub PR](https://github.com/villafanam/api-server/pull/1) 
+- [back-end server url](https://api-server-ii04.onrender.com) 
 
 
 ### Setup
